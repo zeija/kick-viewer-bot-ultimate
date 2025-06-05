@@ -60,7 +60,7 @@ pip install requests-html
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/kick-viewer-bot.git
+git clone https://github.com/zeija/kick-viewer-bot-ultimate.git
 cd kick-viewer-bot
 ```
 
