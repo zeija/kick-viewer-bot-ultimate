@@ -175,5 +175,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This software is provided "as is" without warranty of any kind. Users are responsible for ensuring their usage complies with applicable laws and platform terms of service. The developers assume no liability for misuse of this software.
 
 ---
-
-**Made with ❤️ for educational purposes**
